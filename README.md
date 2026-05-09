@@ -7,7 +7,11 @@ I'm a dedicated ICT educator passionate about teaching technology, digital liter
 ### Bachelor of Business Technology and Livelihood Education Major in ICT
 Polytechnic University of the Philippines — 2023 ✊
 
-## 💻 Tools & Technologies Used
+## 💻 Tools & Technologies Used & Currently Learning
+I am continuously improving my skills and exploring new technologies.  
+Some of these are still part of my learning journey, because mastering technology is a continuous process of practice, creativity, and growth.
+
+> “Learning never stops in the world of technology.”
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,vscode,idea)](https://skillicons.dev)
 
