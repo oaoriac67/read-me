@@ -3,6 +3,17 @@ package chapter1;
 import java.util.*;
 import otherFolder.*;
 import otherFolder.a.*;
+
+/* order of elements in a class
+P - package
+I - import
+C - class
+        properties
+        methods
+        constructor
+
+*/
+
 public class Main{
     public static void main(String[] args) {
         Toy toy1 = new Toy();
@@ -19,7 +30,7 @@ public class Main{
         Random r = new Random();
         ArrayList p;
         Scanner o;
-        System.out.println(r.nextIn);
+        System.out.println(r.nextIn(10));
         // toy1.setPrice(price);
         System.out.println("Main");
         System.out.println(a.msg);
