@@ -30,7 +30,7 @@ public class PrimitivesLesson {
         System.out.println(123_345.678_9);
         //additional info
         System.out.println(10);
-        System.out.println(050); //0## 0 prefix is octal    
+        System.out.println(050); //0## 0 prefix is octal
         System.out.println(0xa); //0X## or 0x## 0x prefix is hexadecimal
         System.out.println(0B101);//0B## or 0b## 0b prefix is binary
 
